@@ -9,8 +9,6 @@ http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 http://qj.yyrjdp.cn/jiuban/tvb22.php?id=1&token=jkahlcs42afaoi42
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经
 http://qj.yyrjdp.cn/jiuban/tvb22.php?id=2&token=jkahlcs42afaoi42
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",有线18台
-rtmp://59.124.75.137/sat/hk042
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV
 http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV6
@@ -92,6 +90,6 @@ http://qj.yyrjdp.cn/jiuban/huya.php?id=11342423
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",粤语港片
 http://qj.yyrjdp.cn/jiuban/huya.php?id=11352894
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",松视1台
-https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462545.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Happy
-https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
+rtmp://161.202.204.248:1935/tv/ttv11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Happy Chanel
+rtmp://161.202.204.248:1935/tv/ttv12
